@@ -9,6 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>kafka</name>
+
 	<description>springcloud-sleuth-zipkin-server project for Spring Boot</description>
 
 	<parent>
