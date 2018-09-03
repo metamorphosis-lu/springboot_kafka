@@ -8,7 +8,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>kafka</name>
+	<name>kafka1</name>
 
 	<description>springcloud-sleuth-zipkin-server project for Spring Boot6</description>
 
