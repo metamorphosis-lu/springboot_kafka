@@ -10,7 +10,7 @@
 
 	<name>kafka1</name>
 
-	<description>springcloud-sleuth-zipkin-server project for Spring Boot6</description>
+	<description>springcloud-sleuth-zipkin-server project for Spring Boot8</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
